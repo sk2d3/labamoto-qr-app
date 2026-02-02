@@ -1,0 +1,157 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kurt Dichosa\\Downloads\\laundry\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4DAA3B8C-4CF0-4B88-A34B-06A593DE9075}|laundry\\laundry.csproj|c:\\users\\kurt dichosa\\downloads\\laundry\\laundry\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4DAA3B8C-4CF0-4B88-A34B-06A593DE9075}|laundry\\laundry.csproj|solutionrelative:laundry\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DAA3B8C-4CF0-4B88-A34B-06A593DE9075}|laundry\\laundry.csproj|c:\\users\\kurt dichosa\\downloads\\laundry\\laundry\\form3.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DAA3B8C-4CF0-4B88-A34B-06A593DE9075}|laundry\\laundry.csproj|solutionrelative:laundry\\form3.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DAA3B8C-4CF0-4B88-A34B-06A593DE9075}|laundry\\laundry.csproj|c:\\users\\kurt dichosa\\downloads\\laundry\\laundry\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DAA3B8C-4CF0-4B88-A34B-06A593DE9075}|laundry\\laundry.csproj|solutionrelative:laundry\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DAA3B8C-4CF0-4B88-A34B-06A593DE9075}|laundry\\laundry.csproj|c:\\users\\kurt dichosa\\downloads\\laundry\\laundry\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DAA3B8C-4CF0-4B88-A34B-06A593DE9075}|laundry\\laundry.csproj|solutionrelative:laundry\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DAA3B8C-4CF0-4B88-A34B-06A593DE9075}|laundry\\laundry.csproj|C:\\Users\\Kurt Dichosa\\Downloads\\laundry\\laundry\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4DAA3B8C-4CF0-4B88-A34B-06A593DE9075}|laundry\\laundry.csproj|solutionrelative:laundry\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DAA3B8C-4CF0-4B88-A34B-06A593DE9075}|laundry\\laundry.csproj|c:\\users\\kurt dichosa\\downloads\\laundry\\laundry\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DAA3B8C-4CF0-4B88-A34B-06A593DE9075}|laundry\\laundry.csproj|solutionrelative:laundry\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DAA3B8C-4CF0-4B88-A34B-06A593DE9075}|laundry\\laundry.csproj|c:\\users\\kurt dichosa\\downloads\\laundry\\laundry\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DAA3B8C-4CF0-4B88-A34B-06A593DE9075}|laundry\\laundry.csproj|solutionrelative:laundry\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DAA3B8C-4CF0-4B88-A34B-06A593DE9075}|laundry\\laundry.csproj|C:\\Users\\Kurt Dichosa\\Downloads\\laundry\\laundry\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4DAA3B8C-4CF0-4B88-A34B-06A593DE9075}|laundry\\laundry.csproj|solutionrelative:laundry\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form3.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Kurt Dichosa\\Downloads\\laundry\\laundry\\Form3.cs",
+              "RelativeDocumentMoniker": "laundry\\Form3.cs",
+              "ToolTip": "C:\\Users\\Kurt Dichosa\\Downloads\\laundry\\laundry\\Form3.cs [Design]",
+              "RelativeToolTip": "laundry\\Form3.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T16:49:12.991Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form3.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Kurt Dichosa\\Downloads\\laundry\\laundry\\Form3.Designer.cs",
+              "RelativeDocumentMoniker": "laundry\\Form3.Designer.cs",
+              "ToolTip": "C:\\Users\\Kurt Dichosa\\Downloads\\laundry\\laundry\\Form3.Designer.cs",
+              "RelativeToolTip": "laundry\\Form3.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T16:45:44.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form2.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Kurt Dichosa\\Downloads\\laundry\\laundry\\Form2.Designer.cs",
+              "RelativeDocumentMoniker": "laundry\\Form2.Designer.cs",
+              "ToolTip": "C:\\Users\\Kurt Dichosa\\Downloads\\laundry\\laundry\\Form2.Designer.cs",
+              "RelativeToolTip": "laundry\\Form2.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T12:52:20.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\Kurt Dichosa\\Downloads\\laundry\\laundry\\Form2.cs",
+              "RelativeDocumentMoniker": "laundry\\Form2.cs",
+              "ToolTip": "C:\\Users\\Kurt Dichosa\\Downloads\\laundry\\laundry\\Form2.cs",
+              "RelativeToolTip": "laundry\\Form2.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAewGEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T15:55:33.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Kurt Dichosa\\Downloads\\laundry\\laundry\\Form2.cs",
+              "RelativeDocumentMoniker": "laundry\\Form2.cs",
+              "ToolTip": "C:\\kurbz\\code\\laundry\\laundry\\Form2.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\kurbz\\code\\laundry\\laundry\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T15:55:22.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "C:\\Users\\Kurt Dichosa\\Downloads\\laundry\\laundry\\Form3.cs",
+              "RelativeDocumentMoniker": "laundry\\Form3.cs",
+              "ToolTip": "C:\\Users\\Kurt Dichosa\\Downloads\\laundry\\laundry\\Form3.cs",
+              "RelativeToolTip": "laundry\\Form3.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAuwGcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T17:51:38.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Kurt Dichosa\\Downloads\\laundry\\laundry\\Form1.cs",
+              "RelativeDocumentMoniker": "laundry\\Form1.cs",
+              "ToolTip": "C:\\Users\\Kurt Dichosa\\Downloads\\laundry\\laundry\\Form1.cs",
+              "RelativeToolTip": "laundry\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T15:34:43.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Kurt Dichosa\\Downloads\\laundry\\laundry\\Form1.cs",
+              "RelativeDocumentMoniker": "laundry\\Form1.cs",
+              "ToolTip": "C:\\kurbz\\code\\laundry\\laundry\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\kurbz\\code\\laundry\\laundry\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T15:16:29.883Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

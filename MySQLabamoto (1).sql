@@ -1,0 +1,1 @@
+SELECT OrderID, CustomerID, Status FROM orders WHERE Status NOT IN ('completed', 'cancelled') ORDER BY OrderDate DESC LIMIT 10;
